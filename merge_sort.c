@@ -10,7 +10,7 @@ Version: 2022-06-07
 #include <stdio.h>
 #include <stdlib.h>
 
-// ============= Auxiliary data structures and functions =============
+// ============= Auxiliary functions =============
 // displays integer array as [ a(1) a(2) ... a(length - 1) ]
 static void display_array(int *array, int length){
 	printf("[ ");
